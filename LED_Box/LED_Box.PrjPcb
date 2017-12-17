@@ -5,8 +5,8 @@ ChannelRoomNamingStyle=0
 ReleasesFolder=
 ReleaseVaultGUID=
 ReleaseVaultName=
-ChannelDesignatorFormatString=$Component_$RoomName
-ChannelRoomLevelSeperator=_
+ChannelDesignatorFormatString=$Component$RoomName
+ChannelRoomLevelSeperator=
 OpenOutputs=1
 ArchiveProject=0
 TimestampOutput=0
@@ -58,7 +58,7 @@ DocumentPath=LED_driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
-AnnotateSuffix=L
+AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=1
 DoLibraryUpdate=0
@@ -188,6 +188,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document10]
+DocumentPath=LED_Box.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TWSGNROA
 
 [Configuration1]
 Name=Default Configuration
