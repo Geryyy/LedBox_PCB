@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: LED_Box.PcbDoc   19.12.2017  15:26:46
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LED_Box.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15.75mil (0.40005mm)     Round          334              56.27 Inch (1429.32 mm)
+T2        31.5mil (0.8001mm)       Round          4                0.52 Inch (13.23 mm)
+T3        35.43mil (0.89992mm)     Round          2                0.17 Inch (4.40 mm)
+T4        39.37mil (1mm)           Round          29               7.38 Inch (187.33 mm)
+T5        51.18mil (1.29997mm)     Round          8                6.89 Inch (174.97 mm)
+T6        55.12mil (1.40005mm)     Round          6                4.50 Inch (114.29 mm)
+T7        59.06mil (1.50012mm)     Round          8                1.80 Inch (45.60 mm)
+T8        122.05mil (3.10007mm)    Round          4                10.75 Inch (273.14 mm)
+---------------------------------------------------------------------------
+Totals                                            395              88.28 Inch (2242.28 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
