@@ -1,0 +1,5 @@
+I2C Pull-Up Widerstände
+
+LED Driver: R3 und R12 auf 47k erhöhren (MOSFET Gate-Spannung zu niedrig)
+
+CP2101: in USB Powered Mode (hoher Stromverbrauch)
