@@ -4,4 +4,8 @@ LED Driver: R3 und R12 auf 47k erhˆhren (MOSFET Gate-Spannung zu niedrig)
 
 CP2101: in USB Powered Mode (hoher Stromverbrauch)
 
-RN2483 reset pin an MCU anschlieﬂen
+ ---> alt: RN2483 reset pin an MCU anschlieﬂen
+ 
+neues Lora Modul
+
+Beschriftung korrigieren: Chemistry Selector und Cell Number
