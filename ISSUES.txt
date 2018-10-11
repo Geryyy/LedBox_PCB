@@ -9,3 +9,9 @@ CP2101: in USB Powered Mode (hoher Stromverbrauch)
 neues Lora Modul
 
 Beschriftung korrigieren: Chemistry Selector und Cell Number
+
+Reset und User Button auf Top-Side
+
+User LED auf Top-Side
+
+Status-LEDs auf Top-Side: Batteriespannung anzeigen
