@@ -1,17 +1,19 @@
-I2C Pull-Up Widerstände
+[OK] 20181120 	I2C Pull-Up Widerstände
 
-LED Driver: R3 und R12 auf 47k erhöhren (MOSFET Gate-Spannung zu niedrig)
+[OK] 20181120 	LED Driver: R3 und R12 auf 47k erhöhren (MOSFET Gate-Spannung zu niedrig)
 
-CP2101: in USB Powered Mode (hoher Stromverbrauch)
-
- ---> alt: RN2483 reset pin an MCU anschließen
+[OK] 20181120 	CP2101: in USB Powered Mode (hoher Stromverbrauch)
  
-neues Lora Modul
+[OK] 20181120	neues Lora Modul
 
-Beschriftung korrigieren: Chemistry Selector und Cell Number
+[OK] 20181120	Beschriftung korrigieren: Chemistry Selector und Cell Number
 
-Reset und User Button auf Top-Side
+[OK] 20181120 	Reset und User Button auf Top-Side --> INFO: 3 User LEDS auf Frontplatte sowie Reset und User(Status) Taster, Status und Bat Anzeige
 
-User LED auf Top-Side
+[OK] 20181120 	User LED auf Top-Side --> INFO: 3 User LEDS auf Frontplatte sowie Reset und User(Status) Taster, Status und Bat Anzeige
 
-Status-LEDs auf Top-Side: Batteriespannung anzeigen
+[OK] 20181120	Status-LEDs auf Top-Side: Batteriespannung anzeigen --> INFO: 3 User LEDS auf Frontplatte sowie Reset und User(Status) Taster, Status und Bat Anzeige
+
+Connectoren auf kleinere Alternativen umstellen
+
+Änderungen routen
