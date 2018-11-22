@@ -14,6 +14,7 @@
 
 [OK] 20181120	Status-LEDs auf Top-Side: Batteriespannung anzeigen --> INFO: 3 User LEDS auf Frontplatte sowie Reset und User(Status) Taster, Status und Bat Anzeige
 
-Connectoren auf kleinere Alternativen umstellen
+[OK] 20181122 	Connectoren auf kleinere Alternativen umstellen
+				SMA auf U.FL geändert
 
 Änderungen routen
