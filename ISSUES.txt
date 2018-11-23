@@ -17,6 +17,6 @@
 [OK] 20181122 	Connectoren auf kleinere Alternativen umstellen
 				SMA auf U.FL geändert
 				
-Externen Temperatursensor
+[OK] 20181123 	Externen Temperatursensor
 
 Änderungen routen
