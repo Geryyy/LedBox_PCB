@@ -2,8 +2,10 @@
 FileName = LED_Box.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : LED_Box.GTL
+Generating : Top Paste
+      File : LED_Box.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -11,12 +13,6 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
     D16
     D17
     D18
@@ -69,61 +65,11 @@ Used DCodes :
     D65
     D66
     D67
-    D68
-    D69
-    D70
-    D71
-    D72
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : LED_Box.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D56
-    D57
-    D58
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : LED_Box.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D56
-    D57
-    D73
-    D74
-    D75
-    D76
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : LED_Box.GTP
-
-    Adding Layer      : Top Paste
+Generating : Top Layer
+      File : LED_Box.GTL
 
     Adding Layer      : Top Layer
 
@@ -132,15 +78,7 @@ Generating : Top Paste
 
 Used DCodes :
     D11
-    D12
     D13
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
     D22
     D23
     D24
@@ -175,9 +113,66 @@ Used DCodes :
     D53
     D54
     D55
-    D77
-    D78
-    D79
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : LED_Box.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D39
+    D130
+    D131
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
 *************************************************************
 
 *************************************************************
@@ -192,6 +187,18 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
     D80
     D81
     D82
@@ -240,42 +247,20 @@ Used DCodes :
     D125
     D126
     D127
-    D128
-    D129
-    D130
-    D131
-    D132
-    D133
-    D134
-    D135
-    D136
-    D137
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : LED_Box.GBS
+Generating : Bottom Overlay
+      File : LED_Box.GBO
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D93
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
-    D133
-    D134
-    D135
-    D136
-    D137
+    D10
+    D11
+    D14
+    D15
 *************************************************************
 
 *************************************************************
@@ -290,22 +275,7 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D22
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : LED_Box.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D56
-    D57
-    D58
-    D73
-    D76
+    D39
 *************************************************************
 
 *************************************************************
@@ -316,7 +286,49 @@ Generating : Mechanical 3
 
 
 Used DCodes :
-    D57
-    D73
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : LED_Box.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D88
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : LED_Box.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
 *************************************************************
 

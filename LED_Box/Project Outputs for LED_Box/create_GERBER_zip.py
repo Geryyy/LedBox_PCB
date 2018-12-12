@@ -16,7 +16,7 @@ zipFile = 'Gerber_NCDrill.zip'
 def renameMechanicalLayer():
     "renames *.GM2 file to *.GKO file"
     for filename in os.listdir(GerberDir):
-        if filename.endswith(".GM2"):
+        if filename.endswith(".GM3"):
             
             name = os.path.splitext(filename)[0]
             nfilename = name + '.GKO';

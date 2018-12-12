@@ -1,2 +1,2 @@
 Layer Pairs Export File for PCB: D:\OneDrive\09_WS_2017\10_Studienassistent\01_PCB\LED_Box\LED_Box.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=led_box.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=led_box.txt|DrillLayers=gtl,gbl
